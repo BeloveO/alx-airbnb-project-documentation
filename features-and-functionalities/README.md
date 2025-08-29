@@ -5,7 +5,7 @@ This document outlines the complete list of features and functionalities with a 
 | Module | Features |
 |-----------|----------|
 | **👤 User Management & Authentication** | <ul><li>User Registration</li><li>User Authentication</li><li>Profile Management</li><li>Authorization</li></ul> |
-| **🏨 Property Listings Management** | <ul><li>Listing Creation</li><li>Listing Updates</li><li>Listing Deletion</li><li>Photo Management</li><\ul> |
+| **🏨 Property Listings Management** | <ul><li>Listing Creation</li><li>Listing Updates</li><li>Listing Deletion</li><li>Photo Management</li></ul> |
 | **🔍 Search & Discovery** | <ul><li>Core Search</li><li>Advanced Filtering</li><li>Pagination</li></ul> |
 | **📅 Booking Management** | <ul><li>Booking Creation</li><li>Availability Logic</li><li>Booking Status Tracking</li><li>Booking Cancellation</li><li>Booking History</li></ul> |
 | **💳 Payment System** | <ul><li>Payment Gateway Integration</li><li>Guest Payments</li><li>Host Payouts</li><li>Multi-Currency</li></ul> |
